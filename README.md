@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=twarbelow"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twarbelow"/>
+<img src="https://github-readme-stats.vercel.app/api?username=twarbelow"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twarbelow"/>
 </br>
 <h3 align="center">Tech Stack</h3>
 
