@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=twarbelow"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twarbelow"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=twarbelow" height="200" width="500"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twarbelow" height="200" width="300"/>
+ </div>
 </br>
 <h3 align="center">Tech Stack</h3>
 
@@ -16,8 +18,12 @@
  
 <h3 align="center">Get to Know Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/twarbelow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://silicon-join-adc.notion.site/Programming-a515cd3ac6bb473a882094c73e07179e"><img src="https://img.shields.io/badge/Programming_Notes-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/twarbelow">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://silicon-join-adc.notion.site/Programming-a515cd3ac6bb473a882094c73e07179e">
+    <img src="https://img.shields.io/badge/Programming_Notes-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
  </p>
 <!--
 **twarbelow/twarbelow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
