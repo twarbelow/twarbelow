@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=twarbelow" height="200" width="500"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twarbelow" height="200" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twarbelow&layout=compact" height="200" width="300"/>
  </div>
 </br>
 <h3 align="center">Tech Stack</h3>
